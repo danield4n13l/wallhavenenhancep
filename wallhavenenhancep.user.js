@@ -18,9 +18,9 @@
 
 // @created             2025-06-13
 // @modified            2025-06-13
-// @version             1.0
-// @downloadURL         tba
-// @updateURL           tba
+// @version             1.1
+// @downloadURL         https://update.greasyfork.org/scripts/539326/Wallhaven%20Enhance%2B.user.js
+// @updateURL           https://update.greasyfork.org/scripts/539326/Wallhaven%20Enhance%2B.user.js
 // ==/UserScript==
 
 //begin UserScript
