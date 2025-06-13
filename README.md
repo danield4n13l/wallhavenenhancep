@@ -17,7 +17,13 @@ Original script can be found here: [New Wallhaven Enhance](https://greasyfork.or
 
 ## Usage
 
-Install the `wallhavenenhancep.user.js` into TamperMonkey/GreaseMonkey.
+Install the `wallhavenenhancep.user.js` into TamperMonkey/GreaseMonkey.  
+Then:
+
+* Use the Cloud-Download button to instantly download pics.
+* Click on an image to enlarge it, and use the controls of the carousel to navigate.
+* Use the enlarged image's caption (located in bottom-middle position)
+ to navigate to the wallpaper's own page.
 
 ## Changes
 
